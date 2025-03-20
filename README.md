@@ -34,3 +34,16 @@ CHAT PAGE :
 ![image](https://github.com/user-attachments/assets/88e6f8af-04a4-425b-bb91-a06f526e927f)
 
 ENJOY THE FEEL OF STUDYING WITH AI....!!😀😀😀 
+
+
+
+📌 Contribution & Support
+We welcome contributions! Feel free to submit a pull request or open an issue for suggestions.
+
+🌟 Star this repo if you find it useful!
+💬 Reach out for collaboration or inquiries.
+
+
+🔗 Connect With Me
+📧 Email: pankitshah493@gmail.com 
+👨‍💻 LinkedIn: http://www.linkedin.com/in/pankit-shah13
