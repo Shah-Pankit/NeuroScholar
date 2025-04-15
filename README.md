@@ -1,3 +1,13 @@
+---
+title: NeuroScholar
+emoji: 🧠
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+pinned: false
+---
+
+
 🧠 NeuroScholar 🎓
 The AI-Powered Research Assistant for Students
 NeuroScholar is an advanced Retrieval-Augmented Generation (RAG) system designed to help students extract knowledge from PDFs with ease. Powered by Qdrant, Groq, and OCR, this AI assistant ingests documents, understands their content, and enables seamless conversational querying.
