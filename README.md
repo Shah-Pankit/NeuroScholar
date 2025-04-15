@@ -24,14 +24,17 @@ Here are some amazing Screenshots from NeuroScholar !! :
 
 
 HOME PAGE : 
-![image](https://github.com/user-attachments/assets/e2b71276-a218-4fb6-bdb7-d591ef26b730)
+![Screenshot 2025-03-19 190052](https://github.com/user-attachments/assets/d3e751a3-613f-4cc9-a517-274d26b8b1bd)
+
 
 CHAT PAGE : 
 
-![Screenshot 2025-03-19 190110](https://github.com/user-attachments/assets/fa2ba8e4-4032-4ba3-b6f1-246e717a2edf)
+![Screenshot 2025-03-19 190110](https://github.com/user-attachments/assets/8aeb573b-4567-4154-8678-5e520d49d8cf)
 
 
-![image](https://github.com/user-attachments/assets/88e6f8af-04a4-425b-bb91-a06f526e927f)
+![Screenshot 2025-03-19 190130](https://github.com/user-attachments/assets/72082d44-d0c0-4391-a45c-ce63ed41b674)
+
+
 
 ENJOY THE FEEL OF STUDYING WITH AI....!!😀😀😀 
 
